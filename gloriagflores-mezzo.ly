@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Gloria"
-	composer = "P. Gerardo Flores"
+	composer = "P. Gerardo Javier Flores Cárdenas"
 	copyright = "Copyright © Gerado Javier Flores Cárdenas"
 	instrument = "Mezzosoprano"
 	tagline = "Coro Juvenil San Juan Bosco"
