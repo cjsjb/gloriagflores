@@ -139,7 +139,7 @@
 	} % end transpose
 	} % end context voice
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Glo -- ria, glo -- ria a Dios en el Cie -- lo,
 		"y en" la tie -- rra paz
 		a los hom -- bres que a -- "ma el" Se -- ñor,

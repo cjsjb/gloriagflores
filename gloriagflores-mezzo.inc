@@ -131,7 +131,7 @@
                 \bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		Glo -- ria, glo -- ria a Dios en el Cie -- lo,
 		"y en" la tie -- rra paz
 		a los hom -- bres que a -- "ma el" Se -- ñor,
